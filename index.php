@@ -23,7 +23,7 @@ if(isset($_POST['submit']) ) {
 <!DOCTYPE html>
 <html>
 	<head>
-	<title>Quick Response (QR) Code Generator | Technical Suneja</title>
+	<title>Quick Response (QR) Code Generator | Md Moklesar Rahman Bappy</title>
     <link rel="stylesheet" href="libs/css/bootstrap.min.css">
 	<link rel="stylesheet" href="libs/style.css">
     </head>
